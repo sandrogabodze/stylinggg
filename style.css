@@ -1,0 +1,80 @@
+@font-face {
+    font-family: "chemi fonti";
+    src: url("fonts/Inter-VariableFont_opsz\,wght.ttf");
+}
+
+body {
+    background-color: #E0E0E0;
+    font-family: "chemi fonti";
+    font-weight: 500;
+}
+
+.div {
+    width: 378px;
+    height: 489px;
+    border: 1px solid; color: white ;
+    margin: auto;
+    margin-top: 70px;
+    background-color: white;
+    
+    
+}
+
+.photo {
+    margin-left: 10px;
+    margin-top: 7px;
+    
+}
+
+.input {
+    width: 315px;
+    height: 45px;
+    border-radius: 10px;
+    margin-right:20px ;
+    margin-left: 20px;
+    border: 1px solid; color: grey;
+    outline: none;
+
+}
+
+.Email {
+    color: black;
+    margin-left: 20px;
+   
+    
+    
+}
+
+.Password {
+    margin-top: 0px;
+    width: 315px;
+    height: 45px;
+    border-radius: 10px;
+    outline: none;
+    border: 1px solid; color: grey;
+    margin-left: 20px;
+    margin-right: 20px;
+    display: block;
+
+
+}
+.Password1 {
+    color: black;
+    margin-left: 20px;
+    display: block;
+    
+}
+
+    
+
+.button {
+    width: 320px;
+    height: 45px;
+    border: 1px solid; color: #000000;
+    background-color: #6756CB;
+    border-radius: 10px;
+    margin-top: 35px;
+    margin-left: 21px;
+}
+    
+    
